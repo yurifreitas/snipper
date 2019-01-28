@@ -1,1 +1,1 @@
-# snipper
+# MODAL JS PURO
